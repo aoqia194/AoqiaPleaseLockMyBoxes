@@ -1,0 +1,8 @@
+name=Please Lock My Boxes
+id=AoqiaPleaseLockMyBoxes
+description=A temporary box locking solution with vanilla padlock.
+poster=poster.png
+require=AoqiaZomboidUtils
+versionMin=41.78.16
+modVersion=0.1.0
+url=https://github.com/aoqia194/AoqiaPleaseLockMyBoxes/
